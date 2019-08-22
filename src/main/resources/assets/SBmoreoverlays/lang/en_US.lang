@@ -1,0 +1,15 @@
+# Keys
+key.SBmoreoverlays.category=More Overlays
+key.SBmoreoverlays.chunkbounds.desc=Show/Hide Chunk Boundaries
+key.SBmoreoverlays.lightoverlay.desc=Show/Hide Dark Spots
+key.SBmoreoverlays.invsearch.desc=Enable/Disable Inventory Item Search
+
+# Gui
+gui.SBmoreoverlays.search.enabled=Item Search Enabled
+gui.SBmoreoverlays.search.disabled=Item Search Disabled
+gui.config.SBmoreoverlays.tile=SBmoreoverlays Settings
+
+# Config-GUI
+config.SBmoreoverlays.category.lightoverlay=Lightoverlay
+config.SBmoreoverlays.category.chunkbounds=Chunk bounds
+config.SBmoreoverlays.category.itemsearch=Item Search

@@ -1,13 +1,13 @@
 [
 {
-  "modid": "moreoverlays",
-  "name": "MoreOverlays",
-  "description": "Adds some overlays from NEI (Mob spawns, Chunk Bounds, Item Search)",
+  "modid": "SBmoreoverlays",
+  "name": "SBMoreOverlays",
+  "description": "A fork of feldim2425s MoreOverlays mod with Hypixel Skyblock unique tags",
   "version": "${version}",
-  "mcversion": "1.12.2",
+  "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["feldim2425"],
+  "authorList": ["feldim2425", "thebunanna"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],

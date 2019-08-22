@@ -1,0 +1,16 @@
+# Keys
+key.SBmoreoverlays.category=More Overlays
+key.SBmoreoverlays.chunkbounds.desc=Zeige/Verstecke Chunk Grenzen
+key.SBmoreoverlays.lightoverlay.desc=Zeige/Verstecke dunkle Stellen
+key.SBmoreoverlays.invsearch.desc=Aktiviere/Deaktiviere Itemsuche
+
+# Gui
+gui.SBmoreoverlays.search.enabled=Itemsuche Aktiviert
+gui.SBmoreoverlays.search.disabled=Itemsuche Deaktiviert
+gui.config.SBmoreoverlays.tile=SBmoreoverlays Einstellungen
+
+# Config-GUI
+config.SBmoreoverlays.category.lightoverlay=Licht-Overlay
+config.SBmoreoverlays.category.chunkbounds=Chunk Grenzen
+config.SBmoreoverlays.category.itemsearch=Item Suche
+
