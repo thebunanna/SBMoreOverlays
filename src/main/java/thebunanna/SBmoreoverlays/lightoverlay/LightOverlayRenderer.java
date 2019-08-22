@@ -68,7 +68,7 @@ public class LightOverlayRenderer {
         int y1 = (py - Config.light_DownRange < 0) ? 0 : py-Config.light_DownRange;
         int y2 = (py + Config.light_UpRange > player.worldObj.getHeight()-1) ? player.worldObj.getHeight()-1 : py+Config.light_UpRange;
 
-        HashMap<BlockPos, Byte> newCache = new HashMap<>();
+        HashMap<BlockPos, Byte> newCache = new HashMap<BlockPos, Byte>();
         for (int xo = -Config.light_HRange; xo <= Config.light_HRange; xo++) {
             for (int zo = -Config.light_HRange; zo <= Config.light_HRange; zo++) {
                 BlockPos pos1 = new BlockPos(px + xo, py, pz + zo);

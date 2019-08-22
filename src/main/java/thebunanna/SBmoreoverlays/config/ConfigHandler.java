@@ -15,7 +15,7 @@ public class ConfigHandler {
 
     public static final String CONFIG_FILENAME = "MoreOverlays.cfg";
     public static Configuration config;
-    public static List<String> categories = new ArrayList<>();
+    public static List<String> categories = new ArrayList<String>();
 
     public static void init(FMLPreInitializationEvent event){
         File configFile = new File(event.getModConfigurationDirectory(), CONFIG_FILENAME);

@@ -46,7 +46,7 @@ public class GuiHandler {
     private static boolean emptyFilter = true;
     private static boolean enabled = false;
 
-    private static List<String> tooltip = new ArrayList<>();
+    private static List<String> tooltip = new ArrayList<String>();
     private static List<Integer> slotindexCache = null;
     private static int txtPosY = 0;
     private static boolean isCreative = false;

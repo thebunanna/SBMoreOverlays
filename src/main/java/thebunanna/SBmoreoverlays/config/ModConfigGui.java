@@ -16,7 +16,7 @@ public class ModConfigGui extends GuiConfig {
     }
 
     private static List<IConfigElement> getConfigElements(){
-        List<IConfigElement> elements = new ArrayList<>();
+        List<IConfigElement> elements = new ArrayList<IConfigElement>();
         for(String category : ConfigHandler.categories){
             elements.add(new ConfigElement(ConfigHandler.config.getCategory(category).setLanguageKey("config."+SBMoreOverlays.MOD_ID+".category."+category)));
         }
